@@ -1,11 +1,12 @@
 # Pokémon Emerald
 
-This is a decompilation of Pokémon Emerald.
+This is an Indonesian translation of Pokémon Emerald based on the pret decompilation.
 
-It builds the following ROM:
+Kalau judulnya ikut diterjemahin jadi 
+Pokémon Jamrud. 😅
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+# Rencana
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+- Pokédex nya pakai Metric (m & kg) seperti di Pokémon TCG Indonesia dan kehidupan sehari-hari
+- Ada 2 patch: yang satu melokalisasi nama-nama Pokémon dan kota-kota nya ke Indonesia, yang satunya lagi ngikut nama-nama versi English
